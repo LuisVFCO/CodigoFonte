@@ -1,11 +1,14 @@
 # CodigoFonte
-Passo 1: Clonar o Repositório
+
+Passo a passo para a implantação da solução
+
+Passo 1: Baixar o Repositório
 Abra o terminal e navegue até o diretório em que você deseja clonar o projeto. Execute o seguinte comando para clonar o repositório do projeto:
 
-bash git clone https://github.com/MariliaCarv/ichords.git
+bash git clone 
 
 Passo 2: Abrir o Projeto no Android Studio
-Abra o Android Studio. Clique em "File" (Arquivo) no menu principal. Selecione "Open" (Abrir). Navegue até o diretório onde você clonou o repositório do projeto e selecione a pasta raiz do projeto. Clique em "OK" para abrir o projeto.
+Abra o Android Studio. Clique em "File" no menu principal. Selecione "Open" e navegue até onde você baixou o repositório do projeto e selecione a pasta raiz do projeto. Clique em "OK" para abrir o projeto.
 
 Passo 3: Configurar o Dispositivo Virtual (Emulador)
 Se você planeja executar o aplicativo em um emulador, siga estas etapas:
